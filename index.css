@@ -1,0 +1,103 @@
+body
+{
+   /* background-color: black;*/
+  /*  background-image: url("images/background_image.png");*/
+}
+#div_header_burger
+{
+    background: url("images/header_burger-background.png") no-repeat;
+   /* bottom: 50px;*/
+
+
+}
+#header_img-burger
+{
+    height: 20px;
+    width: 30px;
+
+}
+#header_logo-image
+{
+    height: 150px;
+    width: 150px;
+
+}
+#div_inner_firstscreen
+{
+  /*  background-image: url("images/inner_firstscreen-image-fone.png"); */
+    background-image: url("images/inner_firstscreen-image.jpg");
+}
+#div_inner_firstscreen_p1
+ {
+    background-image: url("images/inner_firstscreen-background-1.png");
+    /*text-align: center;*/
+    height: 70px;
+    width: 560px;
+ }
+#div_inner_firstscreen_p2
+{
+    background-image: url("images/inner_firstscreen-background-2.png");
+    /*text-align: justify;*/
+    height: 70px;
+    width: 560px;
+}
+#div_inner_firstscreen_p3
+{
+    /*position: center;*/
+    background-image: url("images/inner_firstscreen-background-3.png");
+    height: 70px;
+    width: 520px;
+}
+#div_inner_firstscreen_shortcuts-image-1
+{
+    background-image: url("images/inner_firstscreen-shortcuts-image-background-1.png");
+}
+#div_inner_firstscreen_shortcuts-image-2
+{
+    background: url("images/inner_firstscreen-shortcuts-image-background-2.png")no-repeat;
+}
+#div_inner_firstscreen_shortcuts-image-3
+{
+    background: url("images/inner_firstscreen-shortcuts-image-background-3.png") no-repeat;
+}
+#div_inner_firstscreen_shortcuts-image-4
+{
+    background: url("images/inner_firstscreen-shortcuts-image-background-4.png")no-repeat;
+}
+#div_inner_firstscreen-shortcuts-news-text-1
+{
+    background: url("images/inner_firstscreen-shortcuts-news-image-text-1.png") no-repeat;
+    height: 120px;
+    width: 370px;
+}
+#div_inner_firstscreen-shortcuts-news-text-2
+{
+    background: url("images/inner_firstscreen-shortcuts-news-image-text-2.png") no-repeat;
+    height: 60px;
+    width: 275px;
+}
+
+
+#div_body-spot-group
+{
+    background-image: url("images/background-image-white.jpg");
+}
+#div_body-spot-1
+{
+    height: 585px;
+    width: 400px;
+
+}
+#div_body-spot-2
+{
+    height: 440px;
+    width: 460px;
+
+}
+#div_body-spot-3
+{
+    height: 600px;
+    width: 370px;
+
+
+}
